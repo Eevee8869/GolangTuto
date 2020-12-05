@@ -1,0 +1,45 @@
+package main 
+
+  
+
+import "fmt"
+
+  
+// Main function 
+func main() { 
+    // for loop  
+    // This loop starts when i = 0  
+    // executes till i<4 condition is true 
+    // post statement is i++ 
+
+    for i := 0; i < 4; i++{ 
+      fmt.Printf("GeeksforGeeks\n")   
+
+ // Infinite loop 
+    for {
+      fmt.Printf("GeeksforGeeks\n")   
+    } 
+
+    } 
+
+
+ // while loop 
+
+    // for loop executes till  
+
+    // i < 3 condition is true 
+
+    i:= 0 
+
+    for i < 3 { 
+
+       i += 2 
+
+    } 
+
+  fmt.Println(i) 
+   
+    
+
+    
+} 
