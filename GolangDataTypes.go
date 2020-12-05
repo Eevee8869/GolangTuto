@@ -9,6 +9,7 @@ func main() {
 	var s string //a string is traditionally a sequence of characters for ex "ThisIsAString8292" 
 	fmt.Printf("%v %v %v %q\n", i, f, b, s)
 }
+//in golang u can log something in console by 2 methods fmt.Println() or fmt.Printf
 //oh yea btw // = single line comment and
 // /* */ = multiline comment
 /* multiline 
