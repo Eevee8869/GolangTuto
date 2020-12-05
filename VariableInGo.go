@@ -27,4 +27,15 @@ func main() {
 	// `var f string = "apple"` in this case.
 	f := "take my advice and say java is madarjava"
 	fmt.Println(f)
+
+/*Go also has support for constants. Constants are basically variables whose values cannot be changed later*/
+ const x string = "Hello World"
+  fmt.Println(x)
+
+//and now if u try to change value like
+x = "Some other string"
+//compiler will throw compile-time error:
+//.\VariableInGo.go:7: cannot assign to x
+ 
+
 }
