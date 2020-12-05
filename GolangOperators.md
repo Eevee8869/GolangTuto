@@ -37,4 +37,4 @@
 ###### * | Pointer to a variable.
 
 ---
-If you didn't understood something from here u can go to following link of tutorials point[link](https://www.tutorialspoint.com/go/go_operators.htm)
+If you didn't understood something from here u can go to following link of tutorials point ([link](https://www.tutorialspoint.com/go/go_operators.htm))
