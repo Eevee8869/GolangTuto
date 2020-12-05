@@ -19,3 +19,15 @@
 ##### && | Called Logical AND operator. If both the operands are non-zero, then condition becomes true.
 ##### || | Called Logical OR Operator. If any of the two operands is non-zero, then condition becomes true.
 #####  ! | Called Logical NOT Operator. Use to reverses the logical state of its operand. If a condition is true then Logical NOT operator will make false.
+
+## Assignment Operators
+#####= | Simple assignment operator, Assigns values from right side operands to left side operand
+##### += | Add AND assignment operator, It adds right operand to the left operand and assign the result to left operand
+##### -= | Subtract AND assignment operator, It subtracts right operand from the left operand and assign the result to left operand
+##### *= | Multiply AND assignment operator, It multiplies right operand with the left operand and assign the result to left operand
+##### /= | Divide AND assignment operator, It divides left operand with the right operand and assign the result to left operand
+##### %= | Modulus AND assignment operator, It takes modulus using two operands and assign the result to left operand
+##### <<= | Left shift AND assignment operator
+##### &= | Bitwise AND assignment operator
+##### ^= | bitwise exclusive OR and assignment operator
+##### |= | bitwise inclusive OR and assignment operator
