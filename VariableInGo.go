@@ -35,7 +35,7 @@ func main() {
 //and now if u try to change value like
 x = "Some other string"
 //compiler will throw compile-time error:
-//.\VariableInGo.go:7: cannot assign to x
+//.\VariableInGo.go:36: cannot assign to x
  
 
 }
