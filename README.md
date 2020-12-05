@@ -1,7 +1,7 @@
 # GolangTuto
 ### _Oof golang code snippets for learning i guess feel free to fork this repo for your personal usage_
 
-<img src="https://cdn.discordapp.com/attachments/726425028916150312/784664230782566410/unknown.png" width="120" height="80" />
+<img src="https://cdn.discordapp.com/attachments/726425028916150312/784664230782566410/unknown.png" width="140" height="140" />
 
 
 ```go
